@@ -1,1 +1,1 @@
-smpt_password="wehuzqmmtejxamsy"
+smpt_password="****"
