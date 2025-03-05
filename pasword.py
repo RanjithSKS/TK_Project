@@ -1,0 +1,1 @@
+smpt_password="wehuzqmmtejxamsy"
